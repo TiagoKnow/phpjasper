@@ -22,14 +22,6 @@
         }
     },
 	"extra": {
-        "laravel": {
-            "providers": [
-                "Lavela\\JasperPHP\\JasperPHPServiceProvider"
-            ],
-            "aliases": {
-                "JasperPHP": "Lavela\\JasperPHP\\Facades\\JasperPHP"
-            }
-        },
         "require": {
           "php": ">=7.0"
         },
