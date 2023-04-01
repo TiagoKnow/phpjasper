@@ -50,10 +50,7 @@
         "laravel": {
             "providers": [
                 "Lavela\\JasperPHP\\JasperPHPServiceProvider"
-            ],
-            "aliases": {
-                "JasperPHP": "Lavela\\JasperPHP\\Facades\\JasperPHP"
-            }
+            ]
         },
         "minimum-stability": "stable",
         "require": {
